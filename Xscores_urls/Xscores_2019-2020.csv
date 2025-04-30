@@ -1,0 +1,382 @@
+season,date,home_team,away_team,url
+2019/2020,2019-08-09T20:00:00,Liverpool,Norwich,https://www.xscores.com/soccer/match/liverpool-vs-norwich/09-08-2019/17801
+2019/2020,2019-08-10T12:30:00,West Ham,Manchester City,https://www.xscores.com/soccer/match/west-ham-vs-manchester-city/10-08-2019/17802
+2019/2020,2019-08-10T15:00:00,Bournemouth,Sheffield United,https://www.xscores.com/soccer/match/bournemouth-vs-sheffield-united/10-08-2019/17803
+2019/2020,2019-08-10T15:00:00,Burnley,Southampton,https://www.xscores.com/soccer/match/burnley-vs-southampton/10-08-2019/17804
+2019/2020,2019-08-10T15:00:00,Crystal Palace,Everton,https://www.xscores.com/soccer/match/crystal-palace-vs-everton/10-08-2019/17805
+2019/2020,2019-08-10T15:00:00,Watford,Brighton,https://www.xscores.com/soccer/match/watford-vs-brighton/10-08-2019/17807
+2019/2020,2019-08-10T17:30:00,Tottenham,Aston Villa,https://www.xscores.com/soccer/match/tottenham-vs-aston-villa/10-08-2019/17808
+2019/2020,2019-08-11T14:00:00,Leicester,Wolverhampton,https://www.xscores.com/soccer/match/leicester-vs-wolverhampton/11-08-2019/17806
+2019/2020,2019-08-11T14:00:00,Newcastle,Arsenal,https://www.xscores.com/soccer/match/newcastle-vs-arsenal/11-08-2019/17809
+2019/2020,2019-08-11T16:30:00,Manchester United,Chelsea,https://www.xscores.com/soccer/match/manchester-united-vs-chelsea/11-08-2019/17810
+2019/2020,2019-08-17T12:30:00,Arsenal,Burnley,https://www.xscores.com/soccer/match/arsenal-vs-burnley/17-08-2019/17811
+2019/2020,2019-08-17T15:00:00,Aston Villa,Bournemouth,https://www.xscores.com/soccer/match/aston-villa-vs-bournemouth/17-08-2019/17812
+2019/2020,2019-08-17T15:00:00,Brighton,West Ham,https://www.xscores.com/soccer/match/brighton-vs-west-ham/17-08-2019/17813
+2019/2020,2019-08-17T15:00:00,Everton,Watford,https://www.xscores.com/soccer/match/everton-vs-watford/17-08-2019/17815
+2019/2020,2019-08-17T15:00:00,Norwich,Newcastle,https://www.xscores.com/soccer/match/norwich-vs-newcastle/17-08-2019/17817
+2019/2020,2019-08-17T15:00:00,Southampton,Liverpool,https://www.xscores.com/soccer/match/southampton-vs-liverpool/17-08-2019/17819
+2019/2020,2019-08-17T17:30:00,Manchester City,Tottenham,https://www.xscores.com/soccer/match/manchester-city-vs-tottenham/17-08-2019/17816
+2019/2020,2019-08-18T14:00:00,Sheffield United,Crystal Palace,https://www.xscores.com/soccer/match/sheffield-united-vs-crystal-palace/18-08-2019/17818
+2019/2020,2019-08-18T16:30:00,Chelsea,Leicester,https://www.xscores.com/soccer/match/chelsea-vs-leicester/18-08-2019/17814
+2019/2020,2019-08-19T20:00:00,Wolverhampton,Manchester United,https://www.xscores.com/soccer/match/wolverhampton-vs-manchester-united/19-08-2019/17820
+2019/2020,2019-08-23T20:00:00,Aston Villa,Everton,https://www.xscores.com/soccer/match/aston-villa-vs-everton/23-08-2019/17821
+2019/2020,2019-08-24T12:30:00,Norwich,Chelsea,https://www.xscores.com/soccer/match/norwich-vs-chelsea/24-08-2019/17826
+2019/2020,2019-08-24T15:00:00,Brighton,Southampton,https://www.xscores.com/soccer/match/brighton-vs-southampton/24-08-2019/17823
+2019/2020,2019-08-24T15:00:00,Manchester United,Crystal Palace,https://www.xscores.com/soccer/match/manchester-united-vs-crystal-palace/24-08-2019/17825
+2019/2020,2019-08-24T15:00:00,Sheffield United,Leicester,https://www.xscores.com/soccer/match/sheffield-united-vs-leicester/24-08-2019/17827
+2019/2020,2019-08-24T15:00:00,Watford,West Ham,https://www.xscores.com/soccer/match/watford-vs-west-ham/24-08-2019/17829
+2019/2020,2019-08-24T17:30:00,Liverpool,Arsenal,https://www.xscores.com/soccer/match/liverpool-vs-arsenal/24-08-2019/17824
+2019/2020,2019-08-25T14:00:00,Bournemouth,Manchester City,https://www.xscores.com/soccer/match/bournemouth-vs-manchester-city/25-08-2019/17822
+2019/2020,2019-08-25T16:30:00,Tottenham,Newcastle,https://www.xscores.com/soccer/match/tottenham-vs-newcastle/25-08-2019/17828
+2019/2020,2019-08-25T16:30:00,Wolverhampton,Burnley,https://www.xscores.com/soccer/match/wolverhampton-vs-burnley/25-08-2019/17830
+2019/2020,2019-08-31T12:30:00,Southampton,Manchester United,https://www.xscores.com/soccer/match/southampton-vs-manchester-united/31-08-2019/17839
+2019/2020,2019-08-31T15:00:00,Chelsea,Sheffield United,https://www.xscores.com/soccer/match/chelsea-vs-sheffield-united/31-08-2019/17833
+2019/2020,2019-08-31T15:00:00,Crystal Palace,Aston Villa,https://www.xscores.com/soccer/match/crystal-palace-vs-aston-villa/31-08-2019/17834
+2019/2020,2019-08-31T15:00:00,Leicester,Bournemouth,https://www.xscores.com/soccer/match/leicester-vs-bournemouth/31-08-2019/17836
+2019/2020,2019-08-31T15:00:00,Manchester City,Brighton,https://www.xscores.com/soccer/match/manchester-city-vs-brighton/31-08-2019/17837
+2019/2020,2019-08-31T15:00:00,Newcastle,Watford,https://www.xscores.com/soccer/match/newcastle-vs-watford/31-08-2019/17838
+2019/2020,2019-08-31T15:00:00,West Ham,Norwich,https://www.xscores.com/soccer/match/west-ham-vs-norwich/31-08-2019/17840
+2019/2020,2019-08-31T17:30:00,Burnley,Liverpool,https://www.xscores.com/soccer/match/burnley-vs-liverpool/31-08-2019/17832
+2019/2020,2019-09-01T14:00:00,Everton,Wolverhampton,https://www.xscores.com/soccer/match/everton-vs-wolverhampton/01-09-2019/17835
+2019/2020,2019-09-01T16:30:00,Arsenal,Tottenham,https://www.xscores.com/soccer/match/arsenal-vs-tottenham/01-09-2019/17831
+2019/2020,2019-09-14T12:30:00,Liverpool,Newcastle,https://www.xscores.com/soccer/match/liverpool-vs-newcastle/14-09-2019/17844
+2019/2020,2019-09-14T15:00:00,Brighton,Burnley,https://www.xscores.com/soccer/match/brighton-vs-burnley/14-09-2019/17843
+2019/2020,2019-09-14T15:00:00,Manchester United,Leicester,https://www.xscores.com/soccer/match/manchester-united-vs-leicester/14-09-2019/17845
+2019/2020,2019-09-14T15:00:00,Sheffield United,Southampton,https://www.xscores.com/soccer/match/sheffield-united-vs-southampton/14-09-2019/17847
+2019/2020,2019-09-14T15:00:00,Tottenham,Crystal Palace,https://www.xscores.com/soccer/match/tottenham-vs-crystal-palace/14-09-2019/17848
+2019/2020,2019-09-14T15:00:00,Wolverhampton,Chelsea,https://www.xscores.com/soccer/match/wolverhampton-vs-chelsea/14-09-2019/17850
+2019/2020,2019-09-14T17:30:00,Norwich,Manchester City,https://www.xscores.com/soccer/match/norwich-vs-manchester-city/14-09-2019/17846
+2019/2020,2019-09-15T14:00:00,Bournemouth,Everton,https://www.xscores.com/soccer/match/bournemouth-vs-everton/15-09-2019/17842
+2019/2020,2019-09-15T16:30:00,Watford,Arsenal,https://www.xscores.com/soccer/match/watford-vs-arsenal/15-09-2019/17849
+2019/2020,2019-09-16T20:00:00,Aston Villa,West Ham,https://www.xscores.com/soccer/match/aston-villa-vs-west-ham/16-09-2019/17841
+2019/2020,2019-09-20T20:00:00,Southampton,Bournemouth,https://www.xscores.com/soccer/match/southampton-vs-bournemouth/20-09-2019/17859
+2019/2020,2019-09-21T12:30:00,Leicester,Tottenham,https://www.xscores.com/soccer/match/leicester-vs-tottenham/21-09-2019/17856
+2019/2020,2019-09-21T15:00:00,Burnley,Norwich,https://www.xscores.com/soccer/match/burnley-vs-norwich/21-09-2019/17852
+2019/2020,2019-09-21T15:00:00,Everton,Sheffield United,https://www.xscores.com/soccer/match/everton-vs-sheffield-united/21-09-2019/17855
+2019/2020,2019-09-21T15:00:00,Manchester City,Watford,https://www.xscores.com/soccer/match/manchester-city-vs-watford/21-09-2019/17857
+2019/2020,2019-09-21T17:30:00,Newcastle,Brighton,https://www.xscores.com/soccer/match/newcastle-vs-brighton/21-09-2019/17858
+2019/2020,2019-09-22T14:00:00,Crystal Palace,Wolverhampton,https://www.xscores.com/soccer/match/crystal-palace-vs-wolverhampton/22-09-2019/17854
+2019/2020,2019-09-22T14:00:00,West Ham,Manchester United,https://www.xscores.com/soccer/match/west-ham-vs-manchester-united/22-09-2019/17860
+2019/2020,2019-09-22T16:30:00,Arsenal,Aston Villa,https://www.xscores.com/soccer/match/arsenal-vs-aston-villa/22-09-2019/17851
+2019/2020,2019-09-22T16:30:00,Chelsea,Liverpool,https://www.xscores.com/soccer/match/chelsea-vs-liverpool/22-09-2019/17853
+2019/2020,2019-09-28T12:30:00,Sheffield United,Liverpool,https://www.xscores.com/soccer/match/sheffield-united-vs-liverpool/28-09-2019/17868
+2019/2020,2019-09-28T15:00:00,Aston Villa,Burnley,https://www.xscores.com/soccer/match/aston-villa-vs-burnley/28-09-2019/17861
+2019/2020,2019-09-28T15:00:00,Bournemouth,West Ham,https://www.xscores.com/soccer/match/bournemouth-vs-west-ham/28-09-2019/17862
+2019/2020,2019-09-28T15:00:00,Chelsea,Brighton,https://www.xscores.com/soccer/match/chelsea-vs-brighton/28-09-2019/17863
+2019/2020,2019-09-28T15:00:00,Crystal Palace,Norwich,https://www.xscores.com/soccer/match/crystal-palace-vs-norwich/28-09-2019/17864
+2019/2020,2019-09-28T15:00:00,Tottenham,Southampton,https://www.xscores.com/soccer/match/tottenham-vs-southampton/28-09-2019/17869
+2019/2020,2019-09-28T15:00:00,Wolverhampton,Watford,https://www.xscores.com/soccer/match/wolverhampton-vs-watford/28-09-2019/17870
+2019/2020,2019-09-28T17:30:00,Everton,Manchester City,https://www.xscores.com/soccer/match/everton-vs-manchester-city/28-09-2019/17865
+2019/2020,2019-09-29T16:30:00,Leicester,Newcastle,https://www.xscores.com/soccer/match/leicester-vs-newcastle/29-09-2019/17866
+2019/2020,2019-09-30T20:00:00,Manchester United,Arsenal,https://www.xscores.com/soccer/match/manchester-united-vs-arsenal/30-09-2019/17867
+2019/2020,2019-10-05T12:30:00,Brighton,Tottenham,https://www.xscores.com/soccer/match/brighton-vs-tottenham/05-10-2019/17872
+2019/2020,2019-10-05T15:00:00,Burnley,Everton,https://www.xscores.com/soccer/match/burnley-vs-everton/05-10-2019/17873
+2019/2020,2019-10-05T15:00:00,Liverpool,Leicester,https://www.xscores.com/soccer/match/liverpool-vs-leicester/05-10-2019/17874
+2019/2020,2019-10-05T15:00:00,Norwich,Aston Villa,https://www.xscores.com/soccer/match/norwich-vs-aston-villa/05-10-2019/17877
+2019/2020,2019-10-05T15:00:00,Watford,Sheffield United,https://www.xscores.com/soccer/match/watford-vs-sheffield-united/05-10-2019/17879
+2019/2020,2019-10-05T17:30:00,West Ham,Crystal Palace,https://www.xscores.com/soccer/match/west-ham-vs-crystal-palace/05-10-2019/17880
+2019/2020,2019-10-06T14:00:00,Arsenal,Bournemouth,https://www.xscores.com/soccer/match/arsenal-vs-bournemouth/06-10-2019/17871
+2019/2020,2019-10-06T14:00:00,Manchester City,Wolverhampton,https://www.xscores.com/soccer/match/manchester-city-vs-wolverhampton/06-10-2019/17875
+2019/2020,2019-10-06T14:00:00,Southampton,Chelsea,https://www.xscores.com/soccer/match/southampton-vs-chelsea/06-10-2019/17878
+2019/2020,2019-10-06T16:30:00,Newcastle,Manchester United,https://www.xscores.com/soccer/match/newcastle-vs-manchester-united/06-10-2019/17876
+2019/2020,2019-10-19T12:30:00,Everton,West Ham,https://www.xscores.com/soccer/match/everton-vs-west-ham/19-10-2019/17885
+2019/2020,2019-10-19T15:00:00,Aston Villa,Brighton,https://www.xscores.com/soccer/match/aston-villa-vs-brighton/19-10-2019/17881
+2019/2020,2019-10-19T15:00:00,Bournemouth,Norwich,https://www.xscores.com/soccer/match/bournemouth-vs-norwich/19-10-2019/17882
+2019/2020,2019-10-19T15:00:00,Chelsea,Newcastle,https://www.xscores.com/soccer/match/chelsea-vs-newcastle/19-10-2019/17883
+2019/2020,2019-10-19T15:00:00,Leicester,Burnley,https://www.xscores.com/soccer/match/leicester-vs-burnley/19-10-2019/17886
+2019/2020,2019-10-19T15:00:00,Tottenham,Watford,https://www.xscores.com/soccer/match/tottenham-vs-watford/19-10-2019/17889
+2019/2020,2019-10-19T15:00:00,Wolverhampton,Southampton,https://www.xscores.com/soccer/match/wolverhampton-vs-southampton/19-10-2019/17890
+2019/2020,2019-10-19T17:30:00,Crystal Palace,Manchester City,https://www.xscores.com/soccer/match/crystal-palace-vs-manchester-city/19-10-2019/17884
+2019/2020,2019-10-20T16:30:00,Manchester United,Liverpool,https://www.xscores.com/soccer/match/manchester-united-vs-liverpool/20-10-2019/17887
+2019/2020,2019-10-21T20:00:00,Sheffield United,Arsenal,https://www.xscores.com/soccer/match/sheffield-united-vs-arsenal/21-10-2019/17888
+2019/2020,2019-10-25T20:00:00,Southampton,Leicester,https://www.xscores.com/soccer/match/southampton-vs-leicester/25-10-2019/17898
+2019/2020,2019-10-26T12:30:00,Manchester City,Aston Villa,https://www.xscores.com/soccer/match/manchester-city-vs-aston-villa/26-10-2019/17895
+2019/2020,2019-10-26T15:00:00,Brighton,Everton,https://www.xscores.com/soccer/match/brighton-vs-everton/26-10-2019/17892
+2019/2020,2019-10-26T15:00:00,Watford,Bournemouth,https://www.xscores.com/soccer/match/watford-vs-bournemouth/26-10-2019/17899
+2019/2020,2019-10-26T15:00:00,West Ham,Sheffield United,https://www.xscores.com/soccer/match/west-ham-vs-sheffield-united/26-10-2019/17900
+2019/2020,2019-10-26T17:30:00,Burnley,Chelsea,https://www.xscores.com/soccer/match/burnley-vs-chelsea/26-10-2019/17893
+2019/2020,2019-10-27T14:00:00,Newcastle,Wolverhampton,https://www.xscores.com/soccer/match/newcastle-vs-wolverhampton/27-10-2019/17896
+2019/2020,2019-10-27T16:30:00,Arsenal,Crystal Palace,https://www.xscores.com/soccer/match/arsenal-vs-crystal-palace/27-10-2019/17891
+2019/2020,2019-10-27T16:30:00,Liverpool,Tottenham,https://www.xscores.com/soccer/match/liverpool-vs-tottenham/27-10-2019/17894
+2019/2020,2019-10-27T16:30:00,Norwich,Manchester United,https://www.xscores.com/soccer/match/norwich-vs-manchester-united/27-10-2019/17897
+2019/2020,2019-11-02T12:30:00,Bournemouth,Manchester United,https://www.xscores.com/soccer/match/bournemouth-vs-manchester-united/02-11-2019/17903
+2019/2020,2019-11-02T15:00:00,Arsenal,Wolverhampton,https://www.xscores.com/soccer/match/arsenal-vs-wolverhampton/02-11-2019/17901
+2019/2020,2019-11-02T15:00:00,Aston Villa,Liverpool,https://www.xscores.com/soccer/match/aston-villa-vs-liverpool/02-11-2019/17902
+2019/2020,2019-11-02T15:00:00,Brighton,Norwich,https://www.xscores.com/soccer/match/brighton-vs-norwich/02-11-2019/17904
+2019/2020,2019-11-02T15:00:00,Manchester City,Southampton,https://www.xscores.com/soccer/match/manchester-city-vs-southampton/02-11-2019/17907
+2019/2020,2019-11-02T15:00:00,Sheffield United,Burnley,https://www.xscores.com/soccer/match/sheffield-united-vs-burnley/02-11-2019/17908
+2019/2020,2019-11-02T15:00:00,West Ham,Newcastle,https://www.xscores.com/soccer/match/west-ham-vs-newcastle/02-11-2019/17910
+2019/2020,2019-11-02T17:30:00,Watford,Chelsea,https://www.xscores.com/soccer/match/watford-vs-chelsea/02-11-2019/17909
+2019/2020,2019-11-03T14:00:00,Crystal Palace,Leicester,https://www.xscores.com/soccer/match/crystal-palace-vs-leicester/03-11-2019/17905
+2019/2020,2019-11-03T16:30:00,Everton,Tottenham,https://www.xscores.com/soccer/match/everton-vs-tottenham/03-11-2019/17906
+2019/2020,2019-11-08T20:00:00,Norwich,Watford,https://www.xscores.com/soccer/match/norwich-vs-watford/08-11-2019/17917
+2019/2020,2019-11-09T12:30:00,Chelsea,Crystal Palace,https://www.xscores.com/soccer/match/chelsea-vs-crystal-palace/09-11-2019/17912
+2019/2020,2019-11-09T15:00:00,Burnley,West Ham,https://www.xscores.com/soccer/match/burnley-vs-west-ham/09-11-2019/17911
+2019/2020,2019-11-09T15:00:00,Newcastle,Bournemouth,https://www.xscores.com/soccer/match/newcastle-vs-bournemouth/09-11-2019/17916
+2019/2020,2019-11-09T15:00:00,Southampton,Everton,https://www.xscores.com/soccer/match/southampton-vs-everton/09-11-2019/17918
+2019/2020,2019-11-09T15:00:00,Tottenham,Sheffield United,https://www.xscores.com/soccer/match/tottenham-vs-sheffield-united/09-11-2019/17919
+2019/2020,2019-11-09T17:30:00,Leicester,Arsenal,https://www.xscores.com/soccer/match/leicester-vs-arsenal/09-11-2019/17913
+2019/2020,2019-11-10T14:00:00,Manchester United,Brighton,https://www.xscores.com/soccer/match/manchester-united-vs-brighton/10-11-2019/17915
+2019/2020,2019-11-10T14:00:00,Wolverhampton,Aston Villa,https://www.xscores.com/soccer/match/wolverhampton-vs-aston-villa/10-11-2019/17920
+2019/2020,2019-11-10T16:30:00,Liverpool,Manchester City,https://www.xscores.com/soccer/match/liverpool-vs-manchester-city/10-11-2019/17914
+2019/2020,2019-11-23T12:30:00,West Ham,Tottenham,https://www.xscores.com/soccer/match/west-ham-vs-tottenham/23-11-2019/17930
+2019/2020,2019-11-23T15:00:00,Arsenal,Southampton,https://www.xscores.com/soccer/match/arsenal-vs-southampton/23-11-2019/17921
+2019/2020,2019-11-23T15:00:00,Bournemouth,Wolverhampton,https://www.xscores.com/soccer/match/bournemouth-vs-wolverhampton/23-11-2019/17923
+2019/2020,2019-11-23T15:00:00,Brighton,Leicester,https://www.xscores.com/soccer/match/brighton-vs-leicester/23-11-2019/17924
+2019/2020,2019-11-23T15:00:00,Crystal Palace,Liverpool,https://www.xscores.com/soccer/match/crystal-palace-vs-liverpool/23-11-2019/17925
+2019/2020,2019-11-23T15:00:00,Everton,Norwich,https://www.xscores.com/soccer/match/everton-vs-norwich/23-11-2019/17926
+2019/2020,2019-11-23T15:00:00,Watford,Burnley,https://www.xscores.com/soccer/match/watford-vs-burnley/23-11-2019/17929
+2019/2020,2019-11-23T17:30:00,Manchester City,Chelsea,https://www.xscores.com/soccer/match/manchester-city-vs-chelsea/23-11-2019/17927
+2019/2020,2019-11-24T16:30:00,Sheffield United,Manchester United,https://www.xscores.com/soccer/match/sheffield-united-vs-manchester-united/24-11-2019/17928
+2019/2020,2019-11-25T20:00:00,Aston Villa,Newcastle,https://www.xscores.com/soccer/match/aston-villa-vs-newcastle/25-11-2019/17922
+2019/2020,2019-11-30T12:30:00,Newcastle,Manchester City,https://www.xscores.com/soccer/match/newcastle-vs-manchester-city/30-11-2019/17936
+2019/2020,2019-11-30T15:00:00,Burnley,Crystal Palace,https://www.xscores.com/soccer/match/burnley-vs-crystal-palace/30-11-2019/17931
+2019/2020,2019-11-30T15:00:00,Chelsea,West Ham,https://www.xscores.com/soccer/match/chelsea-vs-west-ham/30-11-2019/17932
+2019/2020,2019-11-30T15:00:00,Liverpool,Brighton,https://www.xscores.com/soccer/match/liverpool-vs-brighton/30-11-2019/17934
+2019/2020,2019-11-30T15:00:00,Tottenham,Bournemouth,https://www.xscores.com/soccer/match/tottenham-vs-bournemouth/30-11-2019/17939
+2019/2020,2019-11-30T17:30:00,Southampton,Watford,https://www.xscores.com/soccer/match/southampton-vs-watford/30-11-2019/17938
+2019/2020,2019-12-01T14:00:00,Norwich,Arsenal,https://www.xscores.com/soccer/match/norwich-vs-arsenal/01-12-2019/17937
+2019/2020,2019-12-01T14:00:00,Wolverhampton,Sheffield United,https://www.xscores.com/soccer/match/wolverhampton-vs-sheffield-united/01-12-2019/17940
+2019/2020,2019-12-01T16:30:00,Leicester,Everton,https://www.xscores.com/soccer/match/leicester-vs-everton/01-12-2019/17933
+2019/2020,2019-12-01T16:30:00,Manchester United,Aston Villa,https://www.xscores.com/soccer/match/manchester-united-vs-aston-villa/01-12-2019/17935
+2019/2020,2019-12-03T19:30:00,Crystal Palace,Bournemouth,https://www.xscores.com/soccer/match/crystal-palace-vs-bournemouth/03-12-2019/17949
+2019/2020,2019-12-03T20:15:00,Burnley,Manchester City,https://www.xscores.com/soccer/match/burnley-vs-manchester-city/03-12-2019/17942
+2019/2020,2019-12-04T19:30:00,Chelsea,Aston Villa,https://www.xscores.com/soccer/match/chelsea-vs-aston-villa/04-12-2019/17947
+2019/2020,2019-12-04T19:30:00,Leicester,Watford,https://www.xscores.com/soccer/match/leicester-vs-watford/04-12-2019/17943
+2019/2020,2019-12-04T19:30:00,Manchester United,Tottenham,https://www.xscores.com/soccer/match/manchester-united-vs-tottenham/04-12-2019/17946
+2019/2020,2019-12-04T19:30:00,Southampton,Norwich,https://www.xscores.com/soccer/match/southampton-vs-norwich/04-12-2019/17948
+2019/2020,2019-12-04T19:30:00,Wolverhampton,West Ham,https://www.xscores.com/soccer/match/wolverhampton-vs-west-ham/04-12-2019/17945
+2019/2020,2019-12-04T20:15:00,Liverpool,Everton,https://www.xscores.com/soccer/match/liverpool-vs-everton/04-12-2019/17950
+2019/2020,2019-12-05T19:30:00,Sheffield United,Newcastle,https://www.xscores.com/soccer/match/sheffield-united-vs-newcastle/05-12-2019/17944
+2019/2020,2019-12-05T20:15:00,Arsenal,Brighton,https://www.xscores.com/soccer/match/arsenal-vs-brighton/05-12-2019/17941
+2019/2020,2019-12-07T12:30:00,Everton,Chelsea,https://www.xscores.com/soccer/match/everton-vs-chelsea/07-12-2019/17954
+2019/2020,2019-12-07T15:00:00,Bournemouth,Liverpool,https://www.xscores.com/soccer/match/bournemouth-vs-liverpool/07-12-2019/17952
+2019/2020,2019-12-07T15:00:00,Tottenham,Burnley,https://www.xscores.com/soccer/match/tottenham-vs-burnley/07-12-2019/17958
+2019/2020,2019-12-07T15:00:00,Watford,Crystal Palace,https://www.xscores.com/soccer/match/watford-vs-crystal-palace/07-12-2019/17959
+2019/2020,2019-12-07T17:30:00,Manchester City,Manchester United,https://www.xscores.com/soccer/match/manchester-city-vs-manchester-united/07-12-2019/17955
+2019/2020,2019-12-08T14:00:00,Aston Villa,Leicester,https://www.xscores.com/soccer/match/aston-villa-vs-leicester/08-12-2019/17951
+2019/2020,2019-12-08T14:00:00,Newcastle,Southampton,https://www.xscores.com/soccer/match/newcastle-vs-southampton/08-12-2019/17956
+2019/2020,2019-12-08T14:00:00,Norwich,Sheffield United,https://www.xscores.com/soccer/match/norwich-vs-sheffield-united/08-12-2019/17957
+2019/2020,2019-12-08T16:30:00,Brighton,Wolverhampton,https://www.xscores.com/soccer/match/brighton-vs-wolverhampton/08-12-2019/17953
+2019/2020,2019-12-09T20:00:00,West Ham,Arsenal,https://www.xscores.com/soccer/match/west-ham-vs-arsenal/09-12-2019/17960
+2019/2020,2019-12-14T12:30:00,Liverpool,Watford,https://www.xscores.com/soccer/match/liverpool-vs-watford/14-12-2019/17966
+2019/2020,2019-12-14T15:00:00,Burnley,Newcastle,https://www.xscores.com/soccer/match/burnley-vs-newcastle/14-12-2019/17962
+2019/2020,2019-12-14T15:00:00,Chelsea,Bournemouth,https://www.xscores.com/soccer/match/chelsea-vs-bournemouth/14-12-2019/17963
+2019/2020,2019-12-14T15:00:00,Leicester,Norwich,https://www.xscores.com/soccer/match/leicester-vs-norwich/14-12-2019/17965
+2019/2020,2019-12-14T15:00:00,Sheffield United,Aston Villa,https://www.xscores.com/soccer/match/sheffield-united-vs-aston-villa/14-12-2019/17968
+2019/2020,2019-12-14T17:30:00,Southampton,West Ham,https://www.xscores.com/soccer/match/southampton-vs-west-ham/14-12-2019/17969
+2019/2020,2019-12-15T14:00:00,Manchester United,Everton,https://www.xscores.com/soccer/match/manchester-united-vs-everton/15-12-2019/17967
+2019/2020,2019-12-15T14:00:00,Wolverhampton,Tottenham,https://www.xscores.com/soccer/match/wolverhampton-vs-tottenham/15-12-2019/17970
+2019/2020,2019-12-15T16:30:00,Arsenal,Manchester City,https://www.xscores.com/soccer/match/arsenal-vs-manchester-city/15-12-2019/17961
+2019/2020,2019-12-16T19:45:00,Crystal Palace,Brighton,https://www.xscores.com/soccer/match/crystal-palace-vs-brighton/16-12-2019/17964
+2019/2020,2019-12-21T12:30:00,Everton,Arsenal,https://www.xscores.com/soccer/match/everton-vs-arsenal/21-12-2019/17974
+2019/2020,2019-12-21T15:00:00,Aston Villa,Southampton,https://www.xscores.com/soccer/match/aston-villa-vs-southampton/21-12-2019/17971
+2019/2020,2019-12-21T15:00:00,Bournemouth,Burnley,https://www.xscores.com/soccer/match/bournemouth-vs-burnley/21-12-2019/17972
+2019/2020,2019-12-21T15:00:00,Brighton,Sheffield United,https://www.xscores.com/soccer/match/brighton-vs-sheffield-united/21-12-2019/17973
+2019/2020,2019-12-21T15:00:00,Newcastle,Crystal Palace,https://www.xscores.com/soccer/match/newcastle-vs-crystal-palace/21-12-2019/17976
+2019/2020,2019-12-21T15:00:00,Norwich,Wolverhampton,https://www.xscores.com/soccer/match/norwich-vs-wolverhampton/21-12-2019/17977
+2019/2020,2019-12-21T17:30:00,Manchester City,Leicester,https://www.xscores.com/soccer/match/manchester-city-vs-leicester/21-12-2019/17975
+2019/2020,2019-12-22T14:00:00,Watford,Manchester United,https://www.xscores.com/soccer/match/watford-vs-manchester-united/22-12-2019/17979
+2019/2020,2019-12-22T16:30:00,Tottenham,Chelsea,https://www.xscores.com/soccer/match/tottenham-vs-chelsea/22-12-2019/17978
+2019/2020,2020-01-29T19:45:00,West Ham,Liverpool,https://www.xscores.com/soccer/match/west-ham-vs-liverpool/29-01-2020/17980
+2019/2020,2019-12-26T12:30:00,Tottenham,Brighton,https://www.xscores.com/soccer/match/tottenham-vs-brighton/26-12-2019/17989
+2019/2020,2019-12-26T15:00:00,Aston Villa,Norwich,https://www.xscores.com/soccer/match/aston-villa-vs-norwich/26-12-2019/17981
+2019/2020,2019-12-26T15:00:00,Bournemouth,Arsenal,https://www.xscores.com/soccer/match/bournemouth-vs-arsenal/26-12-2019/17982
+2019/2020,2019-12-26T15:00:00,Chelsea,Southampton,https://www.xscores.com/soccer/match/chelsea-vs-southampton/26-12-2019/17983
+2019/2020,2019-12-26T15:00:00,Crystal Palace,West Ham,https://www.xscores.com/soccer/match/crystal-palace-vs-west-ham/26-12-2019/17984
+2019/2020,2019-12-26T15:00:00,Everton,Burnley,https://www.xscores.com/soccer/match/everton-vs-burnley/26-12-2019/17985
+2019/2020,2019-12-26T15:00:00,Sheffield United,Watford,https://www.xscores.com/soccer/match/sheffield-united-vs-watford/26-12-2019/853526
+2019/2020,2019-12-26T15:10:00,Sheffield United,Watford,https://www.xscores.com/soccer/match/sheffield-united-vs-watford/26-12-2019/17988
+2019/2020,2019-12-26T17:30:00,Manchester United,Newcastle,https://www.xscores.com/soccer/match/manchester-united-vs-newcastle/26-12-2019/17987
+2019/2020,2019-12-26T20:00:00,Leicester,Liverpool,https://www.xscores.com/soccer/match/leicester-vs-liverpool/26-12-2019/17986
+2019/2020,2019-12-27T19:45:00,Wolverhampton,Manchester City,https://www.xscores.com/soccer/match/wolverhampton-vs-manchester-city/27-12-2019/17990
+2019/2020,2019-12-28T12:30:00,Brighton,Bournemouth,https://www.xscores.com/soccer/match/brighton-vs-bournemouth/28-12-2019/17992
+2019/2020,2019-12-28T15:00:00,Newcastle,Everton,https://www.xscores.com/soccer/match/newcastle-vs-everton/28-12-2019/17996
+2019/2020,2019-12-28T15:00:00,Southampton,Crystal Palace,https://www.xscores.com/soccer/match/southampton-vs-crystal-palace/28-12-2019/17998
+2019/2020,2019-12-28T15:00:00,Watford,Aston Villa,https://www.xscores.com/soccer/match/watford-vs-aston-villa/28-12-2019/17999
+2019/2020,2019-12-28T17:30:00,Norwich,Tottenham,https://www.xscores.com/soccer/match/norwich-vs-tottenham/28-12-2019/17997
+2019/2020,2019-12-28T17:30:00,West Ham,Leicester,https://www.xscores.com/soccer/match/west-ham-vs-leicester/28-12-2019/18000
+2019/2020,2019-12-28T19:45:00,Burnley,Manchester United,https://www.xscores.com/soccer/match/burnley-vs-manchester-united/28-12-2019/17993
+2019/2020,2019-12-29T14:00:00,Arsenal,Chelsea,https://www.xscores.com/soccer/match/arsenal-vs-chelsea/29-12-2019/17991
+2019/2020,2019-12-29T16:30:00,Liverpool,Wolverhampton,https://www.xscores.com/soccer/match/liverpool-vs-wolverhampton/29-12-2019/17994
+2019/2020,2019-12-29T18:00:00,Manchester City,Sheffield United,https://www.xscores.com/soccer/match/manchester-city-vs-sheffield-united/29-12-2019/17995
+2019/2020,2020-01-01T12:30:00,Brighton,Chelsea,https://www.xscores.com/soccer/match/brighton-vs-chelsea/01-01-2020/18002
+2019/2020,2020-01-01T12:30:00,Burnley,Aston Villa,https://www.xscores.com/soccer/match/burnley-vs-aston-villa/01-01-2020/18003
+2019/2020,2020-01-01T15:00:00,Newcastle,Leicester,https://www.xscores.com/soccer/match/newcastle-vs-leicester/01-01-2020/18006
+2019/2020,2020-01-01T15:00:00,Southampton,Tottenham,https://www.xscores.com/soccer/match/southampton-vs-tottenham/01-01-2020/18008
+2019/2020,2020-01-01T15:00:00,Watford,Wolverhampton,https://www.xscores.com/soccer/match/watford-vs-wolverhampton/01-01-2020/18009
+2019/2020,2020-01-01T17:30:00,Manchester City,Everton,https://www.xscores.com/soccer/match/manchester-city-vs-everton/01-01-2020/18005
+2019/2020,2020-01-01T17:30:00,Norwich,Crystal Palace,https://www.xscores.com/soccer/match/norwich-vs-crystal-palace/01-01-2020/18007
+2019/2020,2020-01-01T17:30:00,West Ham,Bournemouth,https://www.xscores.com/soccer/match/west-ham-vs-bournemouth/01-01-2020/18010
+2019/2020,2020-01-01T20:00:00,Arsenal,Manchester United,https://www.xscores.com/soccer/match/arsenal-vs-manchester-united/01-01-2020/18001
+2019/2020,2020-01-02T20:00:00,Liverpool,Sheffield United,https://www.xscores.com/soccer/match/liverpool-vs-sheffield-united/02-01-2020/18004
+2019/2020,2020-01-10T20:00:00,Sheffield United,West Ham,https://www.xscores.com/soccer/match/sheffield-united-vs-west-ham/10-01-2020/18018
+2019/2020,2020-01-11T12:30:00,Crystal Palace,Arsenal,https://www.xscores.com/soccer/match/crystal-palace-vs-arsenal/11-01-2020/18014
+2019/2020,2020-01-11T15:00:00,Chelsea,Burnley,https://www.xscores.com/soccer/match/chelsea-vs-burnley/11-01-2020/18013
+2019/2020,2020-01-11T15:00:00,Everton,Brighton,https://www.xscores.com/soccer/match/everton-vs-brighton/11-01-2020/18015
+2019/2020,2020-01-11T15:00:00,Leicester,Southampton,https://www.xscores.com/soccer/match/leicester-vs-southampton/11-01-2020/18016
+2019/2020,2020-01-11T15:00:00,Manchester United,Norwich,https://www.xscores.com/soccer/match/manchester-united-vs-norwich/11-01-2020/18017
+2019/2020,2020-01-11T15:00:00,Wolverhampton,Newcastle,https://www.xscores.com/soccer/match/wolverhampton-vs-newcastle/11-01-2020/18020
+2019/2020,2020-01-11T17:30:00,Tottenham,Liverpool,https://www.xscores.com/soccer/match/tottenham-vs-liverpool/11-01-2020/18019
+2019/2020,2020-01-12T14:00:00,Bournemouth,Watford,https://www.xscores.com/soccer/match/bournemouth-vs-watford/12-01-2020/18012
+2019/2020,2020-01-12T16:30:00,Aston Villa,Manchester City,https://www.xscores.com/soccer/match/aston-villa-vs-manchester-city/12-01-2020/18011
+2019/2020,2020-01-18T12:30:00,Watford,Tottenham,https://www.xscores.com/soccer/match/watford-vs-tottenham/18-01-2020/18029
+2019/2020,2020-01-18T15:00:00,Arsenal,Sheffield United,https://www.xscores.com/soccer/match/arsenal-vs-sheffield-united/18-01-2020/18021
+2019/2020,2020-01-18T15:00:00,Brighton,Aston Villa,https://www.xscores.com/soccer/match/brighton-vs-aston-villa/18-01-2020/18022
+2019/2020,2020-01-18T15:00:00,Manchester City,Crystal Palace,https://www.xscores.com/soccer/match/manchester-city-vs-crystal-palace/18-01-2020/18025
+2019/2020,2020-01-18T15:00:00,Norwich,Bournemouth,https://www.xscores.com/soccer/match/norwich-vs-bournemouth/18-01-2020/18027
+2019/2020,2020-01-18T15:00:00,Southampton,Wolverhampton,https://www.xscores.com/soccer/match/southampton-vs-wolverhampton/18-01-2020/18028
+2019/2020,2020-01-18T15:00:00,West Ham,Everton,https://www.xscores.com/soccer/match/west-ham-vs-everton/18-01-2020/18030
+2019/2020,2020-01-18T17:30:00,Newcastle,Chelsea,https://www.xscores.com/soccer/match/newcastle-vs-chelsea/18-01-2020/18026
+2019/2020,2020-01-19T14:00:00,Burnley,Leicester,https://www.xscores.com/soccer/match/burnley-vs-leicester/19-01-2020/18023
+2019/2020,2020-01-19T16:30:00,Liverpool,Manchester United,https://www.xscores.com/soccer/match/liverpool-vs-manchester-united/19-01-2020/18024
+2019/2020,2020-01-21T19:30:00,Aston Villa,Watford,https://www.xscores.com/soccer/match/aston-villa-vs-watford/21-01-2020/18031
+2019/2020,2020-01-21T19:30:00,Bournemouth,Brighton,https://www.xscores.com/soccer/match/bournemouth-vs-brighton/21-01-2020/18032
+2019/2020,2020-01-21T19:30:00,Crystal Palace,Southampton,https://www.xscores.com/soccer/match/crystal-palace-vs-southampton/21-01-2020/18040
+2019/2020,2020-01-21T19:30:00,Everton,Newcastle,https://www.xscores.com/soccer/match/everton-vs-newcastle/21-01-2020/18033
+2019/2020,2020-01-21T19:30:00,Sheffield United,Manchester City,https://www.xscores.com/soccer/match/sheffield-united-vs-manchester-city/21-01-2020/18035
+2019/2020,2020-01-21T20:15:00,Chelsea,Arsenal,https://www.xscores.com/soccer/match/chelsea-vs-arsenal/21-01-2020/18038
+2019/2020,2020-01-22T19:30:00,Leicester,West Ham,https://www.xscores.com/soccer/match/leicester-vs-west-ham/22-01-2020/18034
+2019/2020,2020-01-22T19:30:00,Tottenham,Norwich,https://www.xscores.com/soccer/match/tottenham-vs-norwich/22-01-2020/18039
+2019/2020,2020-01-22T20:15:00,Manchester United,Burnley,https://www.xscores.com/soccer/match/manchester-united-vs-burnley/22-01-2020/18037
+2019/2020,2020-01-23T20:00:00,Wolverhampton,Liverpool,https://www.xscores.com/soccer/match/wolverhampton-vs-liverpool/23-01-2020/18036
+2019/2020,2020-02-01T12:30:00,Leicester,Chelsea,https://www.xscores.com/soccer/match/leicester-vs-chelsea/01-02-2020/18044
+2019/2020,2020-02-01T15:00:00,Bournemouth,Aston Villa,https://www.xscores.com/soccer/match/bournemouth-vs-aston-villa/01-02-2020/18041
+2019/2020,2020-02-01T15:00:00,Crystal Palace,Sheffield United,https://www.xscores.com/soccer/match/crystal-palace-vs-sheffield-united/01-02-2020/18043
+2019/2020,2020-02-01T15:00:00,Liverpool,Southampton,https://www.xscores.com/soccer/match/liverpool-vs-southampton/01-02-2020/18045
+2019/2020,2020-02-01T15:00:00,Newcastle,Norwich,https://www.xscores.com/soccer/match/newcastle-vs-norwich/01-02-2020/18047
+2019/2020,2020-02-01T15:00:00,Watford,Everton,https://www.xscores.com/soccer/match/watford-vs-everton/01-02-2020/18049
+2019/2020,2020-02-01T15:00:00,West Ham,Brighton,https://www.xscores.com/soccer/match/west-ham-vs-brighton/01-02-2020/18050
+2019/2020,2020-02-01T17:30:00,Manchester United,Wolverhampton,https://www.xscores.com/soccer/match/manchester-united-vs-wolverhampton/01-02-2020/18046
+2019/2020,2020-02-02T14:00:00,Burnley,Arsenal,https://www.xscores.com/soccer/match/burnley-vs-arsenal/02-02-2020/18042
+2019/2020,2020-02-02T16:30:00,Tottenham,Manchester City,https://www.xscores.com/soccer/match/tottenham-vs-manchester-city/02-02-2020/18048
+2019/2020,2020-02-08T12:30:00,Everton,Crystal Palace,https://www.xscores.com/soccer/match/everton-vs-crystal-palace/08-02-2020/18055
+2019/2020,2020-02-08T17:30:00,Brighton,Watford,https://www.xscores.com/soccer/match/brighton-vs-watford/08-02-2020/18053
+2019/2020,2020-02-09T14:00:00,Sheffield United,Bournemouth,https://www.xscores.com/soccer/match/sheffield-united-vs-bournemouth/09-02-2020/18058
+2019/2020,2020-02-14T20:00:00,Wolverhampton,Leicester,https://www.xscores.com/soccer/match/wolverhampton-vs-leicester/14-02-2020/18060
+2019/2020,2020-02-15T12:30:00,Southampton,Burnley,https://www.xscores.com/soccer/match/southampton-vs-burnley/15-02-2020/18059
+2019/2020,2020-02-15T17:30:00,Norwich,Liverpool,https://www.xscores.com/soccer/match/norwich-vs-liverpool/15-02-2020/18057
+2019/2020,2020-02-16T14:00:00,Aston Villa,Tottenham,https://www.xscores.com/soccer/match/aston-villa-vs-tottenham/16-02-2020/18052
+2019/2020,2020-02-16T16:30:00,Arsenal,Newcastle,https://www.xscores.com/soccer/match/arsenal-vs-newcastle/16-02-2020/18051
+2019/2020,2020-02-17T20:00:00,Chelsea,Manchester United,https://www.xscores.com/soccer/match/chelsea-vs-manchester-united/17-02-2020/18054
+2019/2020,2020-02-19T19:30:00,Manchester City,West Ham,https://www.xscores.com/soccer/match/manchester-city-vs-west-ham/19-02-2020/18056
+2019/2020,2020-02-22T12:30:00,Chelsea,Tottenham,https://www.xscores.com/soccer/match/chelsea-vs-tottenham/22-02-2020/18063
+2019/2020,2020-02-22T15:00:00,Burnley,Bournemouth,https://www.xscores.com/soccer/match/burnley-vs-bournemouth/22-02-2020/18062
+2019/2020,2020-02-22T15:00:00,Crystal Palace,Newcastle,https://www.xscores.com/soccer/match/crystal-palace-vs-newcastle/22-02-2020/18064
+2019/2020,2020-02-22T15:00:00,Sheffield United,Brighton,https://www.xscores.com/soccer/match/sheffield-united-vs-brighton/22-02-2020/18068
+2019/2020,2020-02-22T15:00:00,Southampton,Aston Villa,https://www.xscores.com/soccer/match/southampton-vs-aston-villa/22-02-2020/18069
+2019/2020,2020-02-22T17:30:00,Leicester,Manchester City,https://www.xscores.com/soccer/match/leicester-vs-manchester-city/22-02-2020/18065
+2019/2020,2020-02-23T14:00:00,Manchester United,Watford,https://www.xscores.com/soccer/match/manchester-united-vs-watford/23-02-2020/18067
+2019/2020,2020-02-23T14:00:00,Wolverhampton,Norwich,https://www.xscores.com/soccer/match/wolverhampton-vs-norwich/23-02-2020/18070
+2019/2020,2020-02-23T16:30:00,Arsenal,Everton,https://www.xscores.com/soccer/match/arsenal-vs-everton/23-02-2020/18061
+2019/2020,2020-02-24T20:00:00,Liverpool,West Ham,https://www.xscores.com/soccer/match/liverpool-vs-west-ham/24-02-2020/18066
+2019/2020,2020-02-28T20:00:00,Norwich,Leicester,https://www.xscores.com/soccer/match/norwich-vs-leicester/28-02-2020/18077
+2019/2020,2020-02-29T12:30:00,Brighton,Crystal Palace,https://www.xscores.com/soccer/match/brighton-vs-crystal-palace/29-02-2020/18073
+2019/2020,2020-02-29T15:00:00,Bournemouth,Chelsea,https://www.xscores.com/soccer/match/bournemouth-vs-chelsea/29-02-2020/18072
+2019/2020,2020-02-29T15:00:00,Newcastle,Burnley,https://www.xscores.com/soccer/match/newcastle-vs-burnley/29-02-2020/18076
+2019/2020,2020-02-29T15:00:00,West Ham,Southampton,https://www.xscores.com/soccer/match/west-ham-vs-southampton/29-02-2020/18080
+2019/2020,2020-02-29T17:30:00,Watford,Liverpool,https://www.xscores.com/soccer/match/watford-vs-liverpool/29-02-2020/18079
+2019/2020,2020-03-01T14:00:00,Everton,Manchester United,https://www.xscores.com/soccer/match/everton-vs-manchester-united/01-03-2020/18074
+2019/2020,2020-03-01T14:00:00,Tottenham,Wolverhampton,https://www.xscores.com/soccer/match/tottenham-vs-wolverhampton/01-03-2020/18078
+2019/2020,2020-06-17T18:00:00,Aston Villa,Sheffield United,https://www.xscores.com/soccer/match/aston-villa-vs-sheffield-united/17-06-2020/18071
+2019/2020,2020-06-17T20:15:00,Manchester City,Arsenal,https://www.xscores.com/soccer/match/manchester-city-vs-arsenal/17-06-2020/18075
+2019/2020,2020-03-07T12:30:00,Liverpool,Bournemouth,https://www.xscores.com/soccer/match/liverpool-vs-bournemouth/07-03-2020/18086
+2019/2020,2020-03-07T15:00:00,Arsenal,West Ham,https://www.xscores.com/soccer/match/arsenal-vs-west-ham/07-03-2020/18081
+2019/2020,2020-03-07T15:00:00,Crystal Palace,Watford,https://www.xscores.com/soccer/match/crystal-palace-vs-watford/07-03-2020/18084
+2019/2020,2020-03-07T15:00:00,Sheffield United,Norwich,https://www.xscores.com/soccer/match/sheffield-united-vs-norwich/07-03-2020/18088
+2019/2020,2020-03-07T15:00:00,Southampton,Newcastle,https://www.xscores.com/soccer/match/southampton-vs-newcastle/07-03-2020/18089
+2019/2020,2020-03-07T15:00:00,Wolverhampton,Brighton,https://www.xscores.com/soccer/match/wolverhampton-vs-brighton/07-03-2020/18090
+2019/2020,2020-03-07T17:30:00,Burnley,Tottenham,https://www.xscores.com/soccer/match/burnley-vs-tottenham/07-03-2020/18082
+2019/2020,2020-03-08T14:00:00,Chelsea,Everton,https://www.xscores.com/soccer/match/chelsea-vs-everton/08-03-2020/18083
+2019/2020,2020-03-08T16:30:00,Manchester United,Manchester City,https://www.xscores.com/soccer/match/manchester-united-vs-manchester-city/08-03-2020/18087
+2019/2020,2020-03-09T20:00:00,Leicester,Aston Villa,https://www.xscores.com/soccer/match/leicester-vs-aston-villa/09-03-2020/18085
+2019/2020,2020-06-19T18:00:00,Norwich,Southampton,https://www.xscores.com/soccer/match/norwich-vs-southampton/19-06-2020/18097
+2019/2020,2020-06-19T20:15:00,Tottenham,Manchester United,https://www.xscores.com/soccer/match/tottenham-vs-manchester-united/19-06-2020/18098
+2019/2020,2020-06-20T12:30:00,Watford,Leicester,https://www.xscores.com/soccer/match/watford-vs-leicester/20-06-2020/18099
+2019/2020,2020-06-20T15:00:00,Brighton,Arsenal,https://www.xscores.com/soccer/match/brighton-vs-arsenal/20-06-2020/18093
+2019/2020,2020-06-20T17:30:00,West Ham,Wolverhampton,https://www.xscores.com/soccer/match/west-ham-vs-wolverhampton/20-06-2020/18100
+2019/2020,2020-06-20T19:45:00,Bournemouth,Crystal Palace,https://www.xscores.com/soccer/match/bournemouth-vs-crystal-palace/20-06-2020/18092
+2019/2020,2020-06-21T14:00:00,Newcastle,Sheffield United,https://www.xscores.com/soccer/match/newcastle-vs-sheffield-united/21-06-2020/18096
+2019/2020,2020-06-21T16:15:00,Aston Villa,Chelsea,https://www.xscores.com/soccer/match/aston-villa-vs-chelsea/21-06-2020/18091
+2019/2020,2020-06-21T19:00:00,Everton,Liverpool,https://www.xscores.com/soccer/match/everton-vs-liverpool/21-06-2020/18094
+2019/2020,2020-06-22T20:00:00,Manchester City,Burnley,https://www.xscores.com/soccer/match/manchester-city-vs-burnley/22-06-2020/18095
+2019/2020,2020-06-23T18:00:00,Leicester,Brighton,https://www.xscores.com/soccer/match/leicester-vs-brighton/23-06-2020/18103
+2019/2020,2020-06-23T20:15:00,Tottenham,West Ham,https://www.xscores.com/soccer/match/tottenham-vs-west-ham/23-06-2020/18109
+2019/2020,2020-06-24T18:00:00,Manchester United,Sheffield United,https://www.xscores.com/soccer/match/manchester-united-vs-sheffield-united/24-06-2020/18105
+2019/2020,2020-06-24T18:00:00,Newcastle,Aston Villa,https://www.xscores.com/soccer/match/newcastle-vs-aston-villa/24-06-2020/18106
+2019/2020,2020-06-24T18:00:00,Norwich,Everton,https://www.xscores.com/soccer/match/norwich-vs-everton/24-06-2020/18107
+2019/2020,2020-06-24T18:00:00,Wolverhampton,Bournemouth,https://www.xscores.com/soccer/match/wolverhampton-vs-bournemouth/24-06-2020/18110
+2019/2020,2020-06-24T20:15:00,Liverpool,Crystal Palace,https://www.xscores.com/soccer/match/liverpool-vs-crystal-palace/24-06-2020/18104
+2019/2020,2020-06-25T18:00:00,Burnley,Watford,https://www.xscores.com/soccer/match/burnley-vs-watford/25-06-2020/18101
+2019/2020,2020-06-25T18:00:00,Southampton,Arsenal,https://www.xscores.com/soccer/match/southampton-vs-arsenal/25-06-2020/18108
+2019/2020,2020-06-25T20:15:00,Chelsea,Manchester City,https://www.xscores.com/soccer/match/chelsea-vs-manchester-city/25-06-2020/18102
+2019/2020,2020-06-27T12:30:00,Aston Villa,Wolverhampton,https://www.xscores.com/soccer/match/aston-villa-vs-wolverhampton/27-06-2020/18112
+2019/2020,2020-06-28T16:30:00,Watford,Southampton,https://www.xscores.com/soccer/match/watford-vs-southampton/28-06-2020/18119
+2019/2020,2020-06-29T20:00:00,Crystal Palace,Burnley,https://www.xscores.com/soccer/match/crystal-palace-vs-burnley/29-06-2020/18115
+2019/2020,2020-06-30T20:15:00,Brighton,Manchester United,https://www.xscores.com/soccer/match/brighton-vs-manchester-united/30-06-2020/18114
+2019/2020,2020-07-01T18:00:00,Arsenal,Norwich,https://www.xscores.com/soccer/match/arsenal-vs-norwich/01-07-2020/18111
+2019/2020,2020-07-01T18:00:00,Bournemouth,Newcastle,https://www.xscores.com/soccer/match/bournemouth-vs-newcastle/01-07-2020/18113
+2019/2020,2020-07-01T18:00:00,Everton,Leicester,https://www.xscores.com/soccer/match/everton-vs-leicester/01-07-2020/18116
+2019/2020,2020-07-01T20:15:00,West Ham,Chelsea,https://www.xscores.com/soccer/match/west-ham-vs-chelsea/01-07-2020/18120
+2019/2020,2020-07-02T18:00:00,Sheffield United,Tottenham,https://www.xscores.com/soccer/match/sheffield-united-vs-tottenham/02-07-2020/18118
+2019/2020,2020-07-02T20:15:00,Manchester City,Liverpool,https://www.xscores.com/soccer/match/manchester-city-vs-liverpool/02-07-2020/18117
+2019/2020,2020-07-04T12:30:00,Norwich,Brighton,https://www.xscores.com/soccer/match/norwich-vs-brighton/04-07-2020/18127
+2019/2020,2020-07-04T15:00:00,Leicester,Crystal Palace,https://www.xscores.com/soccer/match/leicester-vs-crystal-palace/04-07-2020/18123
+2019/2020,2020-07-04T15:00:00,Manchester United,Bournemouth,https://www.xscores.com/soccer/match/manchester-united-vs-bournemouth/04-07-2020/18125
+2019/2020,2020-07-04T17:30:00,Wolverhampton,Arsenal,https://www.xscores.com/soccer/match/wolverhampton-vs-arsenal/04-07-2020/18130
+2019/2020,2020-07-04T20:00:00,Chelsea,Watford,https://www.xscores.com/soccer/match/chelsea-vs-watford/04-07-2020/18122
+2019/2020,2020-07-05T12:00:00,Burnley,Sheffield United,https://www.xscores.com/soccer/match/burnley-vs-sheffield-united/05-07-2020/18121
+2019/2020,2020-07-05T14:15:00,Newcastle,West Ham,https://www.xscores.com/soccer/match/newcastle-vs-west-ham/05-07-2020/18126
+2019/2020,2020-07-05T16:30:00,Liverpool,Aston Villa,https://www.xscores.com/soccer/match/liverpool-vs-aston-villa/05-07-2020/18124
+2019/2020,2020-07-05T19:00:00,Southampton,Manchester City,https://www.xscores.com/soccer/match/southampton-vs-manchester-city/05-07-2020/18128
+2019/2020,2020-07-06T20:00:00,Tottenham,Everton,https://www.xscores.com/soccer/match/tottenham-vs-everton/06-07-2020/18129
+2019/2020,2020-07-07T18:00:00,Crystal Palace,Chelsea,https://www.xscores.com/soccer/match/crystal-palace-vs-chelsea/07-07-2020/18135
+2019/2020,2020-07-07T18:00:00,Watford,Norwich,https://www.xscores.com/soccer/match/watford-vs-norwich/07-07-2020/18139
+2019/2020,2020-07-07T20:15:00,Arsenal,Leicester,https://www.xscores.com/soccer/match/arsenal-vs-leicester/07-07-2020/18131
+2019/2020,2020-07-08T18:00:00,Manchester City,Newcastle,https://www.xscores.com/soccer/match/manchester-city-vs-newcastle/08-07-2020/18137
+2019/2020,2020-07-08T18:00:00,Sheffield United,Wolverhampton,https://www.xscores.com/soccer/match/sheffield-united-vs-wolverhampton/08-07-2020/18138
+2019/2020,2020-07-08T18:00:00,West Ham,Burnley,https://www.xscores.com/soccer/match/west-ham-vs-burnley/08-07-2020/18140
+2019/2020,2020-07-08T20:15:00,Brighton,Liverpool,https://www.xscores.com/soccer/match/brighton-vs-liverpool/08-07-2020/18134
+2019/2020,2020-07-09T18:00:00,Bournemouth,Tottenham,https://www.xscores.com/soccer/match/bournemouth-vs-tottenham/09-07-2020/18133
+2019/2020,2020-07-09T18:00:00,Everton,Southampton,https://www.xscores.com/soccer/match/everton-vs-southampton/09-07-2020/18136
+2019/2020,2020-07-09T20:15:00,Aston Villa,Manchester United,https://www.xscores.com/soccer/match/aston-villa-vs-manchester-united/09-07-2020/18132
+2019/2020,2020-07-11T12:30:00,Norwich,West Ham,https://www.xscores.com/soccer/match/norwich-vs-west-ham/11-07-2020/18146
+2019/2020,2020-07-11T12:30:00,Watford,Newcastle,https://www.xscores.com/soccer/match/watford-vs-newcastle/11-07-2020/18149
+2019/2020,2020-07-11T15:00:00,Liverpool,Burnley,https://www.xscores.com/soccer/match/liverpool-vs-burnley/11-07-2020/18144
+2019/2020,2020-07-11T17:30:00,Sheffield United,Chelsea,https://www.xscores.com/soccer/match/sheffield-united-vs-chelsea/11-07-2020/18147
+2019/2020,2020-07-11T20:00:00,Brighton,Manchester City,https://www.xscores.com/soccer/match/brighton-vs-manchester-city/11-07-2020/18143
+2019/2020,2020-07-12T12:00:00,Wolverhampton,Everton,https://www.xscores.com/soccer/match/wolverhampton-vs-everton/12-07-2020/18150
+2019/2020,2020-07-12T14:15:00,Aston Villa,Crystal Palace,https://www.xscores.com/soccer/match/aston-villa-vs-crystal-palace/12-07-2020/18141
+2019/2020,2020-07-12T16:30:00,Tottenham,Arsenal,https://www.xscores.com/soccer/match/tottenham-vs-arsenal/12-07-2020/18148
+2019/2020,2020-07-12T19:00:00,Bournemouth,Leicester,https://www.xscores.com/soccer/match/bournemouth-vs-leicester/12-07-2020/18142
+2019/2020,2020-07-13T20:00:00,Manchester United,Southampton,https://www.xscores.com/soccer/match/manchester-united-vs-southampton/13-07-2020/18145
+2019/2020,2020-07-14T20:15:00,Chelsea,Norwich,https://www.xscores.com/soccer/match/chelsea-vs-norwich/14-07-2020/18153
+2019/2020,2020-07-15T18:00:00,Burnley,Wolverhampton,https://www.xscores.com/soccer/match/burnley-vs-wolverhampton/15-07-2020/18152
+2019/2020,2020-07-15T18:00:00,Manchester City,Bournemouth,https://www.xscores.com/soccer/match/manchester-city-vs-bournemouth/15-07-2020/18157
+2019/2020,2020-07-15T18:00:00,Newcastle,Tottenham,https://www.xscores.com/soccer/match/newcastle-vs-tottenham/15-07-2020/18158
+2019/2020,2020-07-15T20:15:00,Arsenal,Liverpool,https://www.xscores.com/soccer/match/arsenal-vs-liverpool/15-07-2020/18151
+2019/2020,2020-07-16T18:00:00,Everton,Aston Villa,https://www.xscores.com/soccer/match/everton-vs-aston-villa/16-07-2020/18155
+2019/2020,2020-07-16T18:00:00,Leicester,Sheffield United,https://www.xscores.com/soccer/match/leicester-vs-sheffield-united/16-07-2020/18156
+2019/2020,2020-07-16T20:15:00,Crystal Palace,Manchester United,https://www.xscores.com/soccer/match/crystal-palace-vs-manchester-united/16-07-2020/18154
+2019/2020,2020-07-16T20:15:00,Southampton,Brighton,https://www.xscores.com/soccer/match/southampton-vs-brighton/16-07-2020/18159
+2019/2020,2020-07-17T20:00:00,West Ham,Watford,https://www.xscores.com/soccer/match/west-ham-vs-watford/17-07-2020/18160
+2019/2020,2020-07-18T17:30:00,Norwich,Burnley,https://www.xscores.com/soccer/match/norwich-vs-burnley/18-07-2020/18166
+2019/2020,2020-07-19T14:00:00,Bournemouth,Southampton,https://www.xscores.com/soccer/match/bournemouth-vs-southampton/19-07-2020/18162
+2019/2020,2020-07-19T16:00:00,Tottenham,Leicester,https://www.xscores.com/soccer/match/tottenham-vs-leicester/19-07-2020/18168
+2019/2020,2020-07-20T18:00:00,Brighton,Newcastle,https://www.xscores.com/soccer/match/brighton-vs-newcastle/20-07-2020/18163
+2019/2020,2020-07-20T18:00:00,Sheffield United,Everton,https://www.xscores.com/soccer/match/sheffield-united-vs-everton/20-07-2020/18167
+2019/2020,2020-07-20T20:15:00,Wolverhampton,Crystal Palace,https://www.xscores.com/soccer/match/wolverhampton-vs-crystal-palace/20-07-2020/18170
+2019/2020,2020-07-21T18:00:00,Watford,Manchester City,https://www.xscores.com/soccer/match/watford-vs-manchester-city/21-07-2020/18169
+2019/2020,2020-07-21T20:15:00,Aston Villa,Arsenal,https://www.xscores.com/soccer/match/aston-villa-vs-arsenal/21-07-2020/18161
+2019/2020,2020-07-22T18:00:00,Manchester United,West Ham,https://www.xscores.com/soccer/match/manchester-united-vs-west-ham/22-07-2020/18165
+2019/2020,2020-07-22T20:15:00,Liverpool,Chelsea,https://www.xscores.com/soccer/match/liverpool-vs-chelsea/22-07-2020/18164
+2019/2020,2020-07-26T16:00:00,Arsenal,Watford,https://www.xscores.com/soccer/match/arsenal-vs-watford/26-07-2020/18171
+2019/2020,2020-07-26T16:00:00,Burnley,Brighton,https://www.xscores.com/soccer/match/burnley-vs-brighton/26-07-2020/18172
+2019/2020,2020-07-26T16:00:00,Chelsea,Wolverhampton,https://www.xscores.com/soccer/match/chelsea-vs-wolverhampton/26-07-2020/18173
+2019/2020,2020-07-26T16:00:00,Crystal Palace,Tottenham,https://www.xscores.com/soccer/match/crystal-palace-vs-tottenham/26-07-2020/18174
+2019/2020,2020-07-26T16:00:00,Everton,Bournemouth,https://www.xscores.com/soccer/match/everton-vs-bournemouth/26-07-2020/18175
+2019/2020,2020-07-26T16:00:00,Leicester,Manchester United,https://www.xscores.com/soccer/match/leicester-vs-manchester-united/26-07-2020/18176
+2019/2020,2020-07-26T16:00:00,Manchester City,Norwich,https://www.xscores.com/soccer/match/manchester-city-vs-norwich/26-07-2020/18177
+2019/2020,2020-07-26T16:00:00,Newcastle,Liverpool,https://www.xscores.com/soccer/match/newcastle-vs-liverpool/26-07-2020/18178
+2019/2020,2020-07-26T16:00:00,Southampton,Sheffield United,https://www.xscores.com/soccer/match/southampton-vs-sheffield-united/26-07-2020/18179
+2019/2020,2020-07-26T16:00:00,West Ham,Aston Villa,https://www.xscores.com/soccer/match/west-ham-vs-aston-villa/26-07-2020/18180
