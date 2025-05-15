@@ -13,8 +13,10 @@ output_data = {'goals': [], 'cards': []}
 df = pd.read_csv(input_files['matches'])
 
 # Loop over each URL
-for url in tqdm(df['URL'], desc="Processing matches"):
-
+for _, row in tqdm(df.iterrows(), total = len(df), desc="Processing matches"):
+    url = row['url']
+    home, away = row['home_team'], row['away_team']
+    date = row['date']
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         response = requests.get(url, headers=headers, timeout=10)
@@ -35,6 +37,9 @@ for url in tqdm(df['URL'], desc="Processing matches"):
             if event['typeName'] in ('Regular goal', 'Own goal', 'Penalty'):
                 output_data['goals'].append({
                     'URL': url,
+                    'Home Team': home,
+                    'Away Team': away,
+                    'date': date,
                     'Goal Type': event['typeName'],
                     'Score': event['currentScore'],
                     'Player': event['playerName'],
@@ -44,6 +49,9 @@ for url in tqdm(df['URL'], desc="Processing matches"):
             elif event['typeName'] in ('Yellow card', 'Yellow card 2', 'Red card'):
                 output_data['cards'].append({
                     'URL': url,
+                    'Home Team': home,
+                    'Away Team': away,
+                    'date': date,
                     'Card Type': event['typeName'],
                     'Side': event['side'],
                     'Player': event['playerName'],
