@@ -4,8 +4,8 @@ import json
 import pandas as pd
 from tqdm import tqdm  # optional: for progress bar
 
-input_files = {'matches': 'Xscores_2022-2023.csv'}
-output_files = {'goals': 'goals_2022-2023.csv', 'cards': 'cards_2022-2023.csv'}
+input_files = {'matches': 'Xscores_urls/Xscores_2021-2022.csv'}
+output_files = {'goals': 'goals_2021-2022.csv', 'cards': 'cards_2021-2022.csv'}
 
 output_data = {'goals': [], 'cards': []}
 
