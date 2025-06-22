@@ -1,0 +1,378 @@
+Home Team,Away Team,match id,Profit
+Crystal Palace,Arsenal,Crystal Palace_Arsenal,15.309999999999999
+Fulham,Liverpool,Fulham_Liverpool,3.3000000000000003
+Tottenham,Southampton,Tottenham_Southampton,54.300000000000004
+Newcastle,Nottingham Forest,Newcastle_Nottingham Forest,34.190000000000005
+Leicester,Brentford,Leicester_Brentford,105.58999999999999
+Leeds,Wolverhampton,Leeds_Wolverhampton,38.01000000000001
+Bournemouth,Aston Villa,Bournemouth_Aston Villa,81.27
+Everton,Chelsea,Everton_Chelsea,52.94999999999999
+Manchester United,Brighton,Manchester United_Brighton,28.249999999999996
+West Ham,Manchester City,West Ham_Manchester City,28.110000000000003
+Wolverhampton,Fulham,Wolverhampton_Fulham,19.649999999999995
+Southampton,Leeds,Southampton_Leeds,170.52
+Nottingham Forest,West Ham,Nottingham Forest_West Ham,107.26999999999998
+Manchester City,Bournemouth,Manchester City_Bournemouth,35.029999999999994
+Liverpool,Crystal Palace,Liverpool_Crystal Palace,13.92
+Arsenal,Leicester,Arsenal_Leicester,15.009999999999998
+Chelsea,Tottenham,Chelsea_Tottenham,33.489999999999995
+Brighton,Newcastle,Brighton_Newcastle,18.0
+Brentford,Manchester United,Brentford_Manchester United,23.440000000000005
+Aston Villa,Everton,Aston Villa_Everton,15.629999999999999
+Tottenham,Wolverhampton,Tottenham_Wolverhampton,10.249999999999998
+Leicester,Southampton,Leicester_Southampton,32.81999999999999
+Fulham,Brentford,Fulham_Brentford,57.96000000000001
+Crystal Palace,Aston Villa,Crystal Palace_Aston Villa,50.01
+West Ham,Brighton,West Ham_Brighton,145.05
+Newcastle,Manchester City,Newcastle_Manchester City,22.86
+Leeds,Chelsea,Leeds_Chelsea,39.25000000000001
+Bournemouth,Arsenal,Bournemouth_Arsenal,30.45
+Everton,Nottingham Forest,Everton_Nottingham Forest,50.63
+Manchester United,Liverpool,Manchester United_Liverpool,20.98
+Southampton,Manchester United,Southampton_Manchester United,33.12
+Chelsea,Leicester,Chelsea_Leicester,179.01
+Manchester City,Crystal Palace,Manchester City_Crystal Palace,8.680000000000001
+Brentford,Everton,Brentford_Everton,83.38
+Liverpool,Bournemouth,Liverpool_Bournemouth,3.07
+Brighton,Leeds,Brighton_Leeds,29.91
+Arsenal,Fulham,Arsenal_Fulham,6.780000000000001
+Aston Villa,West Ham,Aston Villa_West Ham,39.14
+Wolverhampton,Newcastle,Wolverhampton_Newcastle,79.25
+Nottingham Forest,Tottenham,Nottingham Forest_Tottenham,15.070000000000002
+Fulham,Brighton,Fulham_Brighton,106.9
+Bournemouth,Wolverhampton,Bournemouth_Wolverhampton,19.1
+Crystal Palace,Brentford,Crystal Palace_Brentford,18.05
+Arsenal,Aston Villa,Arsenal_Aston Villa,32.47
+Southampton,Chelsea,Southampton_Chelsea,11.899999999999999
+West Ham,Tottenham,West Ham_Tottenham,28.44
+Leeds,Everton,Leeds_Everton,109.45
+Liverpool,Newcastle,Liverpool_Newcastle,15.590000000000002
+Manchester City,Nottingham Forest,Manchester City_Nottingham Forest,11.03
+Leicester,Manchester United,Leicester_Manchester United,10.370000000000001
+Everton,Liverpool,Everton_Liverpool,69.13
+Newcastle,Crystal Palace,Newcastle_Crystal Palace,56.650000000000006
+Brentford,Leeds,Brentford_Leeds,92.76
+Chelsea,West Ham,Chelsea_West Ham,10.78
+Wolverhampton,Southampton,Wolverhampton_Southampton,74.58999999999999
+Nottingham Forest,Bournemouth,Nottingham Forest_Bournemouth,356.05
+Tottenham,Fulham,Tottenham_Fulham,41.33
+Brighton,Leicester,Brighton_Leicester,12.780000000000001
+Manchester United,Arsenal,Manchester United_Arsenal,28.8
+Aston Villa,Manchester City,Aston Villa_Manchester City,160.31
+Everton,West Ham,Everton_West Ham,29.799999999999997
+Aston Villa,Southampton,Aston Villa_Southampton,35.50000000000001
+Tottenham,Leicester,Tottenham_Leicester,0.44
+Brentford,Arsenal,Brentford_Arsenal,34.49
+Wolverhampton,Manchester City,Wolverhampton_Manchester City,21.160000000000004
+Newcastle,Bournemouth,Newcastle_Bournemouth,88.36000000000001
+Nottingham Forest,Fulham,Nottingham Forest_Fulham,34.91
+Arsenal,Tottenham,Arsenal_Tottenham,29.549999999999997
+Crystal Palace,Chelsea,Crystal Palace_Chelsea,106.95000000000002
+Southampton,Everton,Southampton_Everton,59.83
+Liverpool,Brighton,Liverpool_Brighton,5.42
+Manchester City,Manchester United,Manchester City_Manchester United,11.88
+Leeds,Aston Villa,Leeds_Aston Villa,27.099999999999998
+West Ham,Wolverhampton,West Ham_Wolverhampton,2.9400000000000004
+Leicester,Nottingham Forest,Leicester_Nottingham Forest,0.32999999999999996
+Bournemouth,Brentford,Bournemouth_Brentford,49.75
+Fulham,Newcastle,Fulham_Newcastle,27.32
+Newcastle,Brentford,Newcastle_Brentford,48.17
+Chelsea,Wolverhampton,Chelsea_Wolverhampton,15.909999999999997
+Manchester City,Southampton,Manchester City_Southampton,32.95
+West Ham,Fulham,West Ham_Fulham,38.19
+Bournemouth,Leicester,Bournemouth_Leicester,18.82
+Everton,Manchester United,Everton_Manchester United,18.51
+Crystal Palace,Leeds,Crystal Palace_Leeds,43.23000000000001
+Brighton,Tottenham,Brighton_Tottenham,9.969999999999999
+Arsenal,Liverpool,Arsenal_Liverpool,37.78
+Nottingham Forest,Aston Villa,Nottingham Forest_Aston Villa,19.12
+Fulham,Bournemouth,Fulham_Bournemouth,22.310000000000002
+Brentford,Brighton,Brentford_Brighton,64.11
+Southampton,West Ham,Southampton_West Ham,44.56
+Leeds,Arsenal,Leeds_Arsenal,132.37
+Liverpool,Manchester City,Liverpool_Manchester City,51.269999999999996
+Leicester,Crystal Palace,Leicester_Crystal Palace,14.820000000000002
+Manchester United,Newcastle,Manchester United_Newcastle,23.05
+Tottenham,Everton,Tottenham_Everton,106.75
+Aston Villa,Chelsea,Aston Villa_Chelsea,19.98
+Wolverhampton,Nottingham Forest,Wolverhampton_Nottingham Forest,23.6
+Newcastle,Everton,Newcastle_Everton,16.04
+Manchester United,Tottenham,Manchester United_Tottenham,24.98
+Liverpool,West Ham,Liverpool_West Ham,29.859999999999996
+Leicester,Leeds,Leicester_Leeds,35.150000000000006
+Fulham,Aston Villa,Fulham_Aston Villa,70.26
+Brentford,Chelsea,Brentford_Chelsea,17.810000000000002
+Bournemouth,Southampton,Bournemouth_Southampton,29.89
+Brighton,Nottingham Forest,Brighton_Nottingham Forest,9.290000000000001
+Crystal Palace,Wolverhampton,Crystal Palace_Wolverhampton,111.38999999999999
+Manchester City,Brighton,Manchester City_Brighton,28.320000000000004
+Nottingham Forest,Liverpool,Nottingham Forest_Liverpool,16.389999999999997
+Chelsea,Manchester United,Chelsea_Manchester United,367.76000000000005
+Everton,Crystal Palace,Everton_Crystal Palace,168.22
+Wolverhampton,Leicester,Wolverhampton_Leicester,13.499999999999998
+West Ham,Bournemouth,West Ham_Bournemouth,11.959999999999999
+Tottenham,Newcastle,Tottenham_Newcastle,42.660000000000004
+Southampton,Arsenal,Southampton_Arsenal,21.690000000000005
+Leeds,Fulham,Leeds_Fulham,18.910000000000004
+Aston Villa,Brentford,Aston Villa_Brentford,22.12
+Leicester,Manchester City,Leicester_Manchester City,7.970000000000001
+Bournemouth,Tottenham,Bournemouth_Tottenham,55.620000000000005
+Brighton,Chelsea,Brighton_Chelsea,37.989999999999995
+Crystal Palace,Southampton,Crystal Palace_Southampton,86.59000000000003
+Newcastle,Aston Villa,Newcastle_Aston Villa,84.92999999999999
+Fulham,Everton,Fulham_Everton,18.880000000000003
+Liverpool,Leeds,Liverpool_Leeds,16.08
+Arsenal,Nottingham Forest,Arsenal_Nottingham Forest,5.009999999999999
+Manchester United,West Ham,Manchester United_West Ham,31.92
+Brentford,Wolverhampton,Brentford_Wolverhampton,152.12999999999997
+Manchester City,Fulham,Manchester City_Fulham,71.71000000000002
+Nottingham Forest,Brentford,Nottingham Forest_Brentford,64.55
+Wolverhampton,Brighton,Wolverhampton_Brighton,3.86
+Leeds,Bournemouth,Leeds_Bournemouth,13.100000000000001
+Everton,Leicester,Everton_Leicester,15.239999999999998
+Chelsea,Arsenal,Chelsea_Arsenal,62.71
+West Ham,Crystal Palace,West Ham_Crystal Palace,93.67999999999999
+Aston Villa,Manchester United,Aston Villa_Manchester United,30.560000000000002
+Southampton,Newcastle,Southampton_Newcastle,30.319999999999997
+Tottenham,Liverpool,Tottenham_Liverpool,26.24
+Manchester City,Brentford,Manchester City_Brentford,16.16
+Wolverhampton,Arsenal,Wolverhampton_Arsenal,52.48
+Newcastle,Chelsea,Newcastle_Chelsea,49.09
+West Ham,Leicester,West Ham_Leicester,59.210000000000015
+Tottenham,Leeds,Tottenham_Leeds,31.27
+Nottingham Forest,Crystal Palace,Nottingham Forest_Crystal Palace,205.4
+Liverpool,Southampton,Liverpool_Southampton,13.969999999999999
+Brighton,Aston Villa,Brighton_Aston Villa,90.89
+Fulham,Manchester United,Fulham_Manchester United,24.429999999999996
+Bournemouth,Everton,Bournemouth_Everton,158.23999999999998
+Brentford,Tottenham,Brentford_Tottenham,15.35
+Arsenal,West Ham,Arsenal_West Ham,48.68999999999999
+Crystal Palace,Fulham,Crystal Palace_Fulham,51.44
+Southampton,Brighton,Southampton_Brighton,34.28
+Leeds,Manchester City,Leeds_Manchester City,23.270000000000003
+Leicester,Newcastle,Leicester_Newcastle,19.59
+Everton,Wolverhampton,Everton_Wolverhampton,11.399999999999997
+Aston Villa,Liverpool,Aston Villa_Liverpool,9.679999999999998
+Chelsea,Bournemouth,Chelsea_Bournemouth,9.509999999999998
+Manchester United,Nottingham Forest,Manchester United_Nottingham Forest,58.16
+Wolverhampton,Manchester United,Wolverhampton_Manchester United,15.47
+Manchester City,Everton,Manchester City_Everton,27.79
+West Ham,Brentford,West Ham_Brentford,39.14
+Newcastle,Leeds,Newcastle_Leeds,16.009999999999998
+Brighton,Arsenal,Brighton_Arsenal,37.04
+Bournemouth,Crystal Palace,Bournemouth_Crystal Palace,34.529999999999994
+Tottenham,Aston Villa,Tottenham_Aston Villa,19.929999999999996
+Nottingham Forest,Chelsea,Nottingham Forest_Chelsea,26.86
+Liverpool,Leicester,Liverpool_Leicester,28.660000000000004
+Fulham,Southampton,Fulham_Southampton,71.05000000000001
+Chelsea,Manchester City,Chelsea_Manchester City,14.19
+Leicester,Fulham,Leicester_Fulham,39.14000000000001
+Manchester United,Bournemouth,Manchester United_Bournemouth,49.64
+Leeds,West Ham,Leeds_West Ham,100.85
+Everton,Brighton,Everton_Brighton,62.309999999999995
+Arsenal,Newcastle,Arsenal_Newcastle,17.57
+Crystal Palace,Tottenham,Crystal Palace_Tottenham,145.75
+Southampton,Nottingham Forest,Southampton_Nottingham Forest,31.370000000000005
+Brentford,Liverpool,Brentford_Liverpool,48.05
+Aston Villa,Wolverhampton,Aston Villa_Wolverhampton,20.860000000000003
+Wolverhampton,West Ham,Wolverhampton_West Ham,59.690000000000005
+Nottingham Forest,Leicester,Nottingham Forest_Leicester,187.79999999999998
+Chelsea,Crystal Palace,Chelsea_Crystal Palace,16.29
+Fulham,Chelsea,Fulham_Chelsea,16.43
+Everton,Southampton,Everton_Southampton,19.03
+Brighton,Liverpool,Brighton_Liverpool,82.53
+Tottenham,Arsenal,Tottenham_Arsenal,20.91
+Newcastle,Fulham,Newcastle_Fulham,23.509999999999998
+Brentford,Bournemouth,Brentford_Bournemouth,7.469999999999999
+Aston Villa,Leeds,Aston Villa_Leeds,16.08
+Manchester United,Manchester City,Manchester United_Manchester City,25.23
+Manchester City,Tottenham,Manchester City_Tottenham,7.999999999999999
+Liverpool,Chelsea,Liverpool_Chelsea,35.13
+Southampton,Aston Villa,Southampton_Aston Villa,59.60999999999999
+Leicester,Brighton,Leicester_Brighton,17.909999999999997
+West Ham,Everton,West Ham_Everton,77.43999999999997
+Bournemouth,Nottingham Forest,Bournemouth_Nottingham Forest,207.99999999999997
+Crystal Palace,Newcastle,Crystal Palace_Newcastle,12.370000000000001
+Leeds,Brentford,Leeds_Brentford,17.07
+Arsenal,Manchester United,Arsenal_Manchester United,12.0
+Fulham,Tottenham,Fulham_Tottenham,10.080000000000002
+Manchester City,Wolverhampton,Manchester City_Wolverhampton,31.559999999999995
+Crystal Palace,Manchester United,Crystal Palace_Manchester United,6.370000000000001
+Wolverhampton,Liverpool,Wolverhampton_Liverpool,28.52
+Nottingham Forest,Leeds,Nottingham Forest_Leeds,7.25
+Newcastle,West Ham,Newcastle_West Ham,45.77
+Manchester United,Crystal Palace,Manchester United_Crystal Palace,14.789999999999997
+Chelsea,Fulham,Chelsea_Fulham,12.84
+Brighton,Bournemouth,Brighton_Bournemouth,27.470000000000002
+Aston Villa,Leicester,Aston Villa_Leicester,53.25
+Everton,Arsenal,Everton_Arsenal,164.60000000000002
+Tottenham,Manchester City,Tottenham_Manchester City,37.37
+Brentford,Southampton,Brentford_Southampton,42.17999999999998
+Fulham,Nottingham Forest,Fulham_Nottingham Forest,36.21
+Crystal Palace,Brighton,Crystal Palace_Brighton,113.28
+Bournemouth,Newcastle,Bournemouth_Newcastle,45.22
+West Ham,Chelsea,West Ham_Chelsea,139.8
+Manchester City,Aston Villa,Manchester City_Aston Villa,2.4299999999999997
+Leicester,Tottenham,Leicester_Tottenham,38.59
+Leeds,Manchester United,Leeds_Manchester United,36.11
+Liverpool,Everton,Liverpool_Everton,21.91
+Arsenal,Brentford,Arsenal_Brentford,70.4
+Southampton,Wolverhampton,Southampton_Wolverhampton,25.879999999999995
+Manchester United,Leeds,Manchester United_Leeds,55.66999999999999
+Arsenal,Manchester City,Arsenal_Manchester City,28.9
+Wolverhampton,Bournemouth,Wolverhampton_Bournemouth,38.89
+Tottenham,West Ham,Tottenham_West Ham,10.76
+Nottingham Forest,Manchester City,Nottingham Forest_Manchester City,33.919999999999995
+Newcastle,Liverpool,Newcastle_Liverpool,30.820000000000004
+Manchester United,Leicester,Manchester United_Leicester,22.82
+Brentford,Crystal Palace,Brentford_Crystal Palace,29.400000000000002
+Brighton,Fulham,Brighton_Fulham,33.75000000000001
+Chelsea,Southampton,Chelsea_Southampton,48.650000000000006
+Everton,Leeds,Everton_Leeds,34.42999999999999
+Crystal Palace,Liverpool,Crystal Palace_Liverpool,24.020000000000003
+Leicester,Arsenal,Leicester_Arsenal,69.98
+Bournemouth,Manchester City,Bournemouth_Manchester City,7.13
+Fulham,Wolverhampton,Fulham_Wolverhampton,41.93000000000001
+Leeds,Southampton,Leeds_Southampton,34.28999999999999
+Everton,Aston Villa,Everton_Aston Villa,123.02
+West Ham,Nottingham Forest,West Ham_Nottingham Forest,29.34
+Tottenham,Chelsea,Tottenham_Chelsea,105.49
+Liverpool,Wolverhampton,Liverpool_Wolverhampton,69.66
+Arsenal,Everton,Arsenal_Everton,19.990000000000002
+Manchester City,Newcastle,Manchester City_Newcastle,4.6000000000000005
+Brentford,Fulham,Brentford_Fulham,16.110000000000003
+Chelsea,Leeds,Chelsea_Leeds,63.58
+Southampton,Leicester,Southampton_Leicester,41.410000000000004
+Nottingham Forest,Everton,Nottingham Forest_Everton,1.1400000000000001
+Wolverhampton,Tottenham,Wolverhampton_Tottenham,11.540000000000001
+Liverpool,Manchester United,Liverpool_Manchester United,8.139999999999999
+Brighton,West Ham,Brighton_West Ham,31.44
+Arsenal,Bournemouth,Arsenal_Bournemouth,35.39
+West Ham,Aston Villa,West Ham_Aston Villa,49.709999999999994
+Fulham,Arsenal,Fulham_Arsenal,78.21
+Leicester,Chelsea,Leicester_Chelsea,49.230000000000004
+Everton,Brentford,Everton_Brentford,95.12999999999998
+Crystal Palace,Manchester City,Crystal Palace_Manchester City,13.93
+Manchester United,Southampton,Manchester United_Southampton,25.709999999999997
+Tottenham,Nottingham Forest,Tottenham_Nottingham Forest,49.05000000000001
+Leeds,Brighton,Leeds_Brighton,8.64
+Bournemouth,Liverpool,Bournemouth_Liverpool,39.480000000000004
+Newcastle,Wolverhampton,Newcastle_Wolverhampton,10.280000000000001
+Brighton,Crystal Palace,Brighton_Crystal Palace,16.99
+Southampton,Brentford,Southampton_Brentford,512.99
+Brentford,Leicester,Brentford_Leicester,8.15
+Southampton,Tottenham,Southampton_Tottenham,27.29
+Chelsea,Everton,Chelsea_Everton,58.63
+Aston Villa,Bournemouth,Aston Villa_Bournemouth,14.62
+Arsenal,Crystal Palace,Arsenal_Crystal Palace,30.830000000000002
+Wolverhampton,Leeds,Wolverhampton_Leeds,14.5
+Nottingham Forest,Newcastle,Nottingham Forest_Newcastle,30.269999999999996
+Nottingham Forest,Wolverhampton,Nottingham Forest_Wolverhampton,194.45999999999998
+Arsenal,Leeds,Arsenal_Leeds,56.42
+West Ham,Southampton,West Ham_Southampton,33.13
+Newcastle,Manchester United,Newcastle_Manchester United,52.510000000000005
+Manchester City,Liverpool,Manchester City_Liverpool,2.9700000000000006
+Everton,Tottenham,Everton_Tottenham,108.88000000000001
+Crystal Palace,Leicester,Crystal Palace_Leicester,70.68000000000002
+Chelsea,Aston Villa,Chelsea_Aston Villa,52.13
+Brighton,Brentford,Brighton_Brentford,27.07
+Bournemouth,Fulham,Bournemouth_Fulham,25.85
+Southampton,Manchester City,Southampton_Manchester City,13.270000000000001
+Liverpool,Arsenal,Liverpool_Arsenal,35.68
+Bournemouth,Brighton,Bournemouth_Brighton,44.09000000000001
+Leicester,Aston Villa,Leicester_Aston Villa,10.32
+Chelsea,Liverpool,Chelsea_Liverpool,9.97
+West Ham,Newcastle,West Ham_Newcastle,12.2
+Leeds,Nottingham Forest,Leeds_Nottingham Forest,2.55
+Manchester United,Brentford,Manchester United_Brentford,14.2
+Manchester United,Everton,Manchester United_Everton,29.499999999999996
+Aston Villa,Nottingham Forest,Aston Villa_Nottingham Forest,20.150000000000002
+Fulham,West Ham,Fulham_West Ham,36.88999999999999
+Brentford,Newcastle,Brentford_Newcastle,136.37000000000003
+Wolverhampton,Chelsea,Wolverhampton_Chelsea,85.28999999999999
+Tottenham,Brighton,Tottenham_Brighton,68.97
+Leicester,Bournemouth,Leicester_Bournemouth,86.08999999999999
+Leeds,Crystal Palace,Leeds_Crystal Palace,26.21
+West Ham,Arsenal,West Ham_Arsenal,13.61
+Manchester City,Leicester,Manchester City_Leicester,21.53
+Southampton,Crystal Palace,Southampton_Crystal Palace,68.32
+Nottingham Forest,Manchester United,Nottingham Forest_Manchester United,28.91
+Chelsea,Brighton,Chelsea_Brighton,24.730000000000004
+Leeds,Liverpool,Leeds_Liverpool,37.7
+Tottenham,Bournemouth,Tottenham_Bournemouth,57.94
+Aston Villa,Newcastle,Aston Villa_Newcastle,82.39999999999999
+Wolverhampton,Brentford,Wolverhampton_Brentford,125.91000000000004
+Everton,Fulham,Everton_Fulham,48.71999999999999
+Crystal Palace,Everton,Crystal Palace_Everton,50.81000000000001
+Arsenal,Southampton,Arsenal_Southampton,11.46
+Newcastle,Tottenham,Newcastle_Tottenham,1.57
+Bournemouth,West Ham,Bournemouth_West Ham,4.140000000000001
+Leicester,Wolverhampton,Leicester_Wolverhampton,17.14
+Brentford,Aston Villa,Brentford_Aston Villa,25.1
+Liverpool,Nottingham Forest,Liverpool_Nottingham Forest,5.790000000000001
+Manchester City,Arsenal,Manchester City_Arsenal,40.4
+Aston Villa,Fulham,Aston Villa_Fulham,30.05
+Leeds,Leicester,Leeds_Leicester,34.400000000000006
+Wolverhampton,Crystal Palace,Wolverhampton_Crystal Palace,35.14
+Chelsea,Brentford,Chelsea_Brentford,68.76
+West Ham,Liverpool,West Ham_Liverpool,57.08
+Southampton,Bournemouth,Southampton_Bournemouth,32.35
+Tottenham,Manchester United,Tottenham_Manchester United,6.930000000000001
+Nottingham Forest,Brighton,Nottingham Forest_Brighton,22.72
+Everton,Newcastle,Everton_Newcastle,14.63
+Crystal Palace,West Ham,Crystal Palace_West Ham,40.08
+Brighton,Wolverhampton,Brighton_Wolverhampton,5.5
+Brentford,Nottingham Forest,Brentford_Nottingham Forest,32.67
+Manchester United,Aston Villa,Manchester United_Aston Villa,16.400000000000002
+Newcastle,Southampton,Newcastle_Southampton,112.34
+Bournemouth,Leeds,Bournemouth_Leeds,15.47
+Fulham,Manchester City,Fulham_Manchester City,11.640000000000002
+Liverpool,Tottenham,Liverpool_Tottenham,2.67
+Leicester,Everton,Leicester_Everton,13.75
+Manchester City,West Ham,Manchester City_West Ham,77.88
+Liverpool,Fulham,Liverpool_Fulham,26.590000000000003
+Brighton,Manchester United,Brighton_Manchester United,21.709999999999997
+Bournemouth,Chelsea,Bournemouth_Chelsea,32.53
+Tottenham,Crystal Palace,Tottenham_Crystal Palace,26.97
+Liverpool,Brentford,Liverpool_Brentford,48.220000000000006
+Manchester City,Leeds,Manchester City_Leeds,7.979999999999999
+Arsenal,Chelsea,Arsenal_Chelsea,9.29
+Wolverhampton,Aston Villa,Wolverhampton_Aston Villa,27.639999999999997
+Newcastle,Arsenal,Newcastle_Arsenal,28.36
+West Ham,Manchester United,West Ham_Manchester United,37.339999999999996
+Fulham,Leicester,Fulham_Leicester,7.090000000000001
+Nottingham Forest,Southampton,Nottingham Forest_Southampton,4.0
+Brighton,Everton,Brighton_Everton,2.67
+Southampton,Fulham,Southampton_Fulham,50.94
+Manchester United,Wolverhampton,Manchester United_Wolverhampton,23.349999999999994
+Leicester,Liverpool,Leicester_Liverpool,18.59
+Leeds,Newcastle,Leeds_Newcastle,19.44
+Crystal Palace,Bournemouth,Crystal Palace_Bournemouth,92.32000000000001
+Everton,Manchester City,Everton_Manchester City,20.01
+Brentford,West Ham,Brentford_West Ham,75.33000000000001
+Chelsea,Nottingham Forest,Chelsea_Nottingham Forest,113.97
+Aston Villa,Tottenham,Aston Villa_Tottenham,147.79000000000005
+Arsenal,Brighton,Arsenal_Brighton,59.269999999999996
+Tottenham,Brentford,Tottenham_Brentford,3.66
+Liverpool,Aston Villa,Liverpool_Aston Villa,173.78999999999996
+Bournemouth,Manchester United,Bournemouth_Manchester United,19.119999999999997
+West Ham,Leeds,West Ham_Leeds,2.37
+Brighton,Southampton,Brighton_Southampton,20.42
+Fulham,Crystal Palace,Fulham_Crystal Palace,10.190000000000003
+Newcastle,Leicester,Newcastle_Leicester,10.01
+Manchester City,Chelsea,Manchester City_Chelsea,85.16
+Newcastle,Brighton,Newcastle_Brighton,25.44
+Wolverhampton,Everton,Wolverhampton_Everton,34.889999999999986
+Nottingham Forest,Arsenal,Nottingham Forest_Arsenal,25.269999999999996
+Brighton,Manchester City,Brighton_Manchester City,136.20000000000002
+Manchester United,Chelsea,Manchester United_Chelsea,2.9200000000000004
+Southampton,Liverpool,Southampton_Liverpool,24.62
+Manchester United,Fulham,Manchester United_Fulham,12.280000000000001
+Leicester,West Ham,Leicester_West Ham,15.209999999999997
+Leeds,Tottenham,Leeds_Tottenham,18.28000000000001
+Everton,Bournemouth,Everton_Bournemouth,27.610000000000003
+Crystal Palace,Nottingham Forest,Crystal Palace_Nottingham Forest,86.97000000000001
+Chelsea,Newcastle,Chelsea_Newcastle,31.54
+Brentford,Manchester City,Brentford_Manchester City,19.790000000000003
+Aston Villa,Brighton,Aston Villa_Brighton,44.2
+Arsenal,Wolverhampton,Arsenal_Wolverhampton,46.41
